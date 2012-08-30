@@ -12,9 +12,9 @@ public class Helloworld {
 		// TODO Auto-generated method stub
         a=90;
         b=34;
-		System.out.println("hello world value of added value is"+(a+b));
-
-	    System.out.println("value after multiplication is "+(a*b));
+            System.out.println("hello world value of added value is"+(a+b));
+            System.out.println("value after multiplication is "+(a*b));
+	    System.out.println("value after division is "+(a/b));
 	    /*This class is doing basic maths operation */
 
 	}
