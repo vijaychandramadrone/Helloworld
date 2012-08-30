@@ -15,6 +15,7 @@ public class Helloworld {
             System.out.println("hello world value of added value is"+(a+b));
             System.out.println("value after multiplication is "+(a*b));
 	    System.out.println("value after division is "+(a/b));
+	    System.out.println("value after division is "+(a-b));
 	    /*This class is doing basic maths operation */
 
 	}
