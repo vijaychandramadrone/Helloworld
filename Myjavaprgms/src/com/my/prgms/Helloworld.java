@@ -14,7 +14,7 @@ public class Helloworld {
         b=34;
 		System.out.println("hello world value of added value is"+(a+b));
 
-	    System.out.println("value is sucessfully added");
+	    System.out.println("value after multiplication is "(a*b);
 
 	}
 
