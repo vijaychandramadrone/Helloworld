@@ -7,6 +7,10 @@ public class MyArrayList {
 		ar.add("chandra");
 		System.out.println("First Element in ArrayList "+ ar.get(0));
 		System.out.println("Second Element in ArrayList "+ ar.get(1));
+		Iterator<String> it = ar.iterator();
+		while(it.hasNext()){
+			System.out.println("Arraylist element retrival with itterator "+it.next());
+		}
 	}
 	
 
